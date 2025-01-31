@@ -4,7 +4,7 @@ Welcome to the **Public API Server**! This is a simple and efficient API built w
 
 ## Features
 
-- **Endpoint for Basic Info**: Get an email, the current date and time, a GitHub repository link, and a backlink to a Node.js developer hiring page.
+- **Endpoint for Basic Info**: Get an email, the current date and time, a GitHub repository link, and a backlink to a [Node.js developer hiring page](https://hng.tech/hire/nodejs-developers).
 - **Easy Setup**: Quick installation and setup instructions for running the server locally.
 - **Auto-Restart with Nodemon**: Automatically restarts the server whenever code changes are made during development.
 
